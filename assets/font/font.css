@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "BebasKai";
+  src: local("BebasKai"),
+    url(bebas_kai/BebasKai.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "RobotoRegular";
+  src: local("RobotoRegular"),
+    url(roboto/Roboto-Regular.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "RobotoMedium";
+  src: local("RobotoMedium"),
+    url(roboto/Roboto-Medium.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "RobotoBold";
+  src: local("RobotoBold"),
+    url(roboto/Roboto-Bold.ttf) format("truetype");
+}
+
+/* html {
+  font-family: "BebasKai";
+} */
